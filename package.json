@@ -4,7 +4,7 @@
   "description": "Apprendre les bases du DevOps",
   "main": "index.js",
   "scripts": {
-    "lint:html": "htmlhint **/*.html"
+    "lint:html": "htmlhint '**/*.html'"
   },
   "repository": {
     "type": "git",
